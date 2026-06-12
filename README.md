@@ -3,7 +3,7 @@ I build things across the stack — from REST APIs to firmware running on bare m
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
 **Backend**
 
