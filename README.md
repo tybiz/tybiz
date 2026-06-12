@@ -1,5 +1,3 @@
-# Hey, I'm Wojtek 👋
-
 Third-year Computer Science student at Politechnika Białostocka, Poland.
 I build things across the stack — from REST APIs to firmware running on bare metal.
 
