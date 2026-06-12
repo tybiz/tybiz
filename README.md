@@ -39,9 +39,9 @@ I build things across the stack — from REST APIs to firmware running on bare m
 
 ## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tybiz&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tybiz&layout=compact&theme=dark&hide_border=true)
-
----
-
-<sub>Made with ☕ in Białystok</sub>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tybiz&show_icons=true&theme=dark&hide_border=true&card_width=400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybiz&layout=compact&theme=dark&hide_border=true&card_width=400" /></td>
+  </tr>
+</table>
