@@ -40,6 +40,6 @@ I build things across the stack — from REST APIs to firmware running on bare m
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tybiz&show_icons=true&theme=dark&hide_border=true&card_width=400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybiz&layout=compact&theme=dark&hide_border=true&card_width=400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybiz&layout=compact&theme=dark&hide_border=true&card_width=400&hide=c" /></td>
   </tr>
 </table>
